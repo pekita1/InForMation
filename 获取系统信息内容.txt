@@ -1,0 +1,55 @@
+注册表：启动项     用工具
+
+进程信息       ######
+
+网络连接信息
+
+操作系统版本号 ####
+
+用户信息     ####
+
+获取开机时间 ####
+
+获取mac与ip  ####
+
+操作系统日志  #####
+
+获取host文件 ######
+
+
+c:\windows\system32\drivers\etc\hosts
+
+
+
+wevtutil epl System C:\backup\system0506.evtx
+
+
+Windows.Globalization%4Analytic
+Microsoft-Windows-Wired-AutoConfig%4Operational
+
+
+windows server 2003 下系统日志查看命令 wevtutil 无效
+
+os.environ["PATH"]  查看系统环境变量
+
+jbossenv = os.environ["JBOSS_HOME"]  JBOSS_HOME变量
+
+
+\standalone\log  目录下
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
