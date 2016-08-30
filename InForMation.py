@@ -384,12 +384,21 @@ class main_:
 		self.helps()
 		if self.options.information or self.options.log or self.options.search:
 			if self.options.information:
-				informations()       #获取系统信息
+				try:
+					informations()       #获取系统信息
+				except:
+					pass
 			if self.options.log:
-				logs()               #获取中间件日志
+				try:
+					logs()               #获取中间件日志
+				except:
+					pass
 			time.sleep(2)
 			if self.options.search:
-				search_logs()        #搜索日志
+				try:
+					search_logs()        #搜索日志t:
+				except:
+					pass
 		else:
 			self.option.print_help()
 
