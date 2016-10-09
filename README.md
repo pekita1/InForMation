@@ -12,4 +12,5 @@ information.exe -i start  运行收集系统信息功能
 
 ## 详细介绍，请前往  [http://thief.one](http://thief.one/2016/09/04/windows%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/)
 
+
 by nmask 2016
